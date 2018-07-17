@@ -14,5 +14,3 @@ class Dog
     @@dog_array
   end
 end
-
-# pluto = Dog.new("Pluto","hound",13)

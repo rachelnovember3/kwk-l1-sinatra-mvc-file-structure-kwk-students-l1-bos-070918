@@ -10,7 +10,7 @@ class Dog
     @@array << Dog.new
   end
   
-  def all
+  def all()
     @@array
   end
 end

@@ -7,9 +7,10 @@ class Dog
     @breed = breed
     @name = name
     @age = age
+    @@array >> dog.new
   end
   
   def all
-    @@ []
+    @@array
   end
 end

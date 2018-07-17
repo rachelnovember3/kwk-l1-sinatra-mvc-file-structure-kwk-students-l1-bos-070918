@@ -1,7 +1,7 @@
 class Dog
   # Replace with Dog class
   attr_accessor :name, :breed, :age
-  @@array = []
+  @@dog_array = []
   
   def initialize(name, breed, age)
     @name = name
@@ -11,7 +11,7 @@ class Dog
   end
   
   def all()
-    @@array
+    @@dog_array
   end
 end
 

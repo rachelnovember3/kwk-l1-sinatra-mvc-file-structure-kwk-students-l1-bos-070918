@@ -1,3 +1,4 @@
 class Dog
-  # Replace with Dog clas
+  # Replace with Dog class
+  attr_accessor = :
 end

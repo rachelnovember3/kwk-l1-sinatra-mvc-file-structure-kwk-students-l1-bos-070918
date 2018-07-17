@@ -10,7 +10,7 @@ class Dog
     @@dog_array << self
   end
   
-  def all()
+  def self.all
     @@dog_array
   end
 end
